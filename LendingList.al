@@ -4,6 +4,7 @@ page 50105 LendingList
     ApplicationArea = All;
     UsageCategory = Lists;
     SourceTable = Lending;
+    CardPageId = LendingCard;
 
     layout
     {

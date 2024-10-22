@@ -4,6 +4,7 @@ page 50115 BookList
     ApplicationArea = All;
     UsageCategory = Lists;
     SourceTable = LibraryBooks;
+    CardPageId = LibraryBook;
 
     layout
     {
